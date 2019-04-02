@@ -1,0 +1,2 @@
+# nameservice
+Cosmos SDK demo
